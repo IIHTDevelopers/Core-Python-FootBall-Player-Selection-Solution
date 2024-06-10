@@ -1,0 +1,119 @@
+Name: Lionel Messi
+Age: 34
+Goals: 45
+Player Type: Forward
+Origin: Rosario
+Sponsor Brand: Adidas
+Experience: 20 years
+
+Name: Cristiano Ronaldo
+Age: 36
+Goals: 40
+Player Type: Forward
+Origin: Funchal
+Sponsor Brand: Nike
+Experience: 21 years
+
+Name: Neymar Jr.
+Age: 29
+Goals: 30
+Player Type: Forward
+Origin: Mogi das Cruzes
+Sponsor Brand: Puma
+Experience: 15 years
+
+Name: Kylian Mbappe
+Age: 23
+Goals: 35
+Player Type: Forward
+Origin: Paris
+Sponsor Brand: Nike
+Experience: 8 years
+
+Name: Robert Lewandowski
+Age: 33
+Goals: 50
+Player Type: Forward
+Origin: Warsaw
+Sponsor Brand: Adidas
+Experience: 15 years
+
+Name: Mohamed Salah
+Age: 29
+Goals: 40
+Player Type: Forward
+Origin: Nagrig
+Sponsor Brand: Adidas
+Experience: 10 years
+
+Name: Kevin De Bruyne
+Age: 30
+Goals: 15
+Player Type: Midfielder
+Origin: Drongen
+Sponsor Brand: Nike
+Experience: 12 years
+
+Name: Luka Modric
+Age: 36
+Goals: 10
+Player Type: Midfielder
+Origin: Zadar
+Sponsor Brand: Adidas
+Experience: 18 years
+
+Name: Bruno Fernandes
+Age: 27
+Goals: 20
+Player Type: Midfielder
+Origin: Maia
+Sponsor Brand: Nike
+Experience: 8 years
+
+Name: Sergio Ramos
+Age: 35
+Goals: 5
+Player Type: Defender
+Origin: Camas
+Sponsor Brand: Adidas
+Experience: 18 years
+
+Name: Virgil van Dijk
+Age: 30
+Goals: 7
+Player Type: Defender
+Origin: Breda
+Sponsor Brand: Nike
+Experience: 10 years
+
+Name: Trent Alexander-Arnold
+Age: 23
+Goals: 3
+Player Type: Defender
+Origin: Liverpool
+Sponsor Brand: Adidas
+Experience: 5 years
+
+Name: Alisson Becker
+Age: 29
+Goals: 0
+Player Type: Goalkeeper
+Origin: Novo Hamburgo
+Sponsor Brand: Nike
+Experience: 8 years
+
+Name: Jan Oblak
+Age: 28
+Goals: 0
+Player Type: Goalkeeper
+Origin: Škofja Loka
+Sponsor Brand: Adidas
+Experience: 10 years
+
+Name: Thibaut Courtois
+Age: 29
+Goals: 0
+Player Type: Goalkeeper
+Origin: Bree
+Sponsor Brand: Nike
+Experience: 8 years
