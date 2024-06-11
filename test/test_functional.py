@@ -1,7 +1,7 @@
 # players_test.py
 import unittest
 from football_players import *
-from TestUtils import TestUtils
+from test.TestUtils import TestUtils
 
 class PlayersTest(unittest.TestCase):
 
